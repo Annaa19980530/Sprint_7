@@ -1,7 +1,0 @@
-scootertests\TestLoginCourier.class
-scootertests\TestCreateCourier.class
-scootertests\TestCreateOrder.class
-scootertests\TestOrderList.class
-apirequests\ApiBase.class
-apirequests\OrderRequest.class
-apirequests\CourierRequest.class
